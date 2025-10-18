@@ -14,9 +14,10 @@ MCA postgraduate with hands-on skills in **web development**, **software enginee
 ## Skills
 
 - **Languages & Technologies**: HTML, CSS, JavaScript, React, Java, PHP, Python
-- **Databases**: Oracle, MySQL
-- **Frameworks**: Java Swing, Spring Boot
-- **Tools**: IntelliJ IDEA, VS Code, MS Office
+- **AI/ML Technologies**: Machine Learning with Python, AI concepts and tools
+- **Databases**: Oracle, MySQL, SQLite
+- **Frameworks**: Django, Java Swing, Spring Boot
+- **Tools**: AI tools, IntelliJ IDEA, VS Code, MS Office
 - **Software Engineering**: Frontend, Backend, DBMS
 
 ## Projects
@@ -31,11 +32,24 @@ MCA postgraduate with hands-on skills in **web development**, **software enginee
 
 ## Experience
 
-- **Hackathons**: 
-  - Smart India Hackathon (SIH) 2025 – Participant
-  - Secured **10th position out of 50 teams** in college internal hackathon
-  - Bundelkhand Hackathon – Developed solutions for local artisans
-  - Invest MP Regional Industry Conclave participant
+- **Bundelkhand Hackathon**
+- **Invest MP Regional Industry Conclave** participant
+-   - Participated and developed solutions for local artisans and social issues
+ 
+- **Smart India Hackathon (SIH) Internal 2025**
+ - Secured **10th position out of 50 teams** in the college-level SIH internal hackathon
+ - Built **people2Govt**, a crowdsourced civic-issue reporting and resolution system
+ -  - **Tech Stack**: 
+      - Frontend: React (Admin), React Native (User), Tailwind CSS, Redux, Geo Location & Camera Access
+      - Backend: NodeJS, Express, REST API, rule-based ML, microservices
+      - Database & Storage: SQLite, PostgreSQL, AWS S3
+      - Security: OAuth, JWT, Role-based access
+      - Deployment: Containerization, CDN, AWS
+
+## Soft Skills
+
+- **Presentation skills:** Clearly deliver ideas and solutions in team meetings and hackathons
+- **Communication skills:** Effectively convey information and collaborate within team projects
 
 ## Education
 
