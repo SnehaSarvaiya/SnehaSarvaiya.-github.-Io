@@ -18,7 +18,7 @@ MCA postgraduate with hands-on skills in **web development**, **software enginee
 - **Databases**: Oracle, MySQL, SQLite
 - **Frameworks**: Django, Java Swing, Spring Boot
 - **Tools**: AI tools, IntelliJ IDEA, VS Code, MS Office
-- **Software Engineering**: Frontend, Backend, DBMS
+
 
 ## Projects
 
