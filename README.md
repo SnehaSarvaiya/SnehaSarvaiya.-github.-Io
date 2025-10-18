@@ -34,12 +34,12 @@ MCA postgraduate with hands-on skills in **web development**, **software enginee
 
 - **Bundelkhand Hackathon**
 - **Invest MP Regional Industry Conclave** participant
--   - Participated and developed solutions for local artisans and social issues
+- Participated and developed solutions for local artisans and social issues
  
 - **Smart India Hackathon (SIH) Internal 2025**
  - Secured **10th position out of 50 teams** in the college-level SIH internal hackathon
  - Built **people2Govt**, a crowdsourced civic-issue reporting and resolution system
- -  - **Tech Stack**: 
+ - **Tech Stack**: 
       - Frontend: React (Admin), React Native (User), Tailwind CSS, Redux, Geo Location & Camera Access
       - Backend: NodeJS, Express, REST API, rule-based ML, microservices
       - Database & Storage: SQLite, PostgreSQL, AWS S3
