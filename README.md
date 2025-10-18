@@ -33,7 +33,7 @@ MCA postgraduate with hands-on skills in **web development**, **software enginee
 ## Experience
 
 - **Bundelkhand Hackathon**
-- **Invest MP Regional Industry Conclave** participant
+- **Invest MP Regional Industry Conclave** 
 - Participated and developed solutions for local artisans and social issues
  
 - **Smart India Hackathon (SIH) Internal 2025**
